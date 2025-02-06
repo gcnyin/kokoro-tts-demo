@@ -1,0 +1,6 @@
+kokoro==0.7.9
+soundfile==0.13.1
+pypinyin==0.53.0
+ordered_set==4.1.0
+jieba==0.42.1
+cn2an==0.5.23
